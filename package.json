@@ -5,7 +5,8 @@
     "source": "src/index.html",
     "scripts": {
         "build": "parcel build",
-        "dev": "parcel"
+        "dev": "parcel",
+        "start": "electron ."
     },
     "contributors": [
         {
